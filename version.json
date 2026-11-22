@@ -1,7 +1,7 @@
 {
-  "versionCode": 72,
-  "versionName": "0.72.0",
-  "bundle": "releases/game-v72.zip",
-  "sha256": "a03b97ed77247b5207bb15340af6dcc179e2c9174b0c8bfa15a55c58b67bacbb",
+  "versionCode": 73,
+  "versionName": "0.73.0",
+  "bundle": "releases/game-v73.zip",
+  "sha256": "62f2772145c948adc6eb550d1bb8aa9bf1c20adae68bea1abf6798225c9b5acd",
   "size": 2644363
 }
